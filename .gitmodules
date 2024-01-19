@@ -1,0 +1,6 @@
+[submodule "PythonUtils"]
+	path = PythonUtils
+	url = git@github.com:rinkaaan/PythonUtils.git
+[submodule "BooksApi"]
+	path = BooksApi
+	url = git@github.com:rinkaaan/BooksApi.git
